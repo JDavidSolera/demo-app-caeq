@@ -1,0 +1,5 @@
+declare module 'design-system/Button'
+declare module 'design-system/StyleProvider'
+declare module 'design-system/Modal'
+declare module 'design-system/Text'
+declare module 'core'
